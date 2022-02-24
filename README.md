@@ -29,11 +29,9 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 <!-- Custom Icon Badges by DenverCoder1 - https://github.com/DenverCoder1/custom-icon-badges -->
 ### ⚙️ &nbsp; Skills and Tools
 #### Programming languages
-- Good knowledge: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-- Basic knowledge: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -42,9 +40,7 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 
 
 #### Frameworks and Databases
-- Good knowledge: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java%20Swing" src="https://img.shields.io/badge/Java%20Swing-007396.svg?logo=java&logoColor=white"></a>
-- Basic knowledge: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
@@ -71,6 +67,7 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 ### 🔍 &nbsp; Find me on the web
 Feel free to get in touch if you have any questions for me. <br><br>
 <a href="https://www.xing.com/profile/Isabell_Waas"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?logo=xing&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/isabell-waas-966226232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
 <a href="https://500px.com/p/isabellwaas"><img alt="500px" src="https://img.shields.io/badge/500px-0099E5.svg?logo=500px&logoColor=white"></a>
 <a href="https://www.behance.net/isabellwaas"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white"></a>
 
