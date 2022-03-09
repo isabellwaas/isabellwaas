@@ -17,16 +17,22 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 
 ------------------------------------------
 ### 📌 &nbsp; Projects
-#### Desktop Apps
+#### 🌳 &nbsp; TeamGruenbaum
+##### Desktop Apps
 - [ShoppingListGenerator](https://github.com/TeamGruenbaum/ShoppingListGenerator) - Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes
 - [HofUniversityManager](https://github.com/TeamGruenbaum/HofUniversityManager) - Manage everyday student life at Hof University and access various services such as mensa or timetables
 
-#### Android Apps
+##### Android Apps
 - [SimpleDo](https://github.com/TeamGruenbaum/SimpleDo) - Note down tasks or appointments, sort them by any criterion you like and set a reminder
 - [RingerModeNotification](https://github.com/TeamGruenbaum/RingerModeNotification) - Constantly informs you about your device's current ringer mode via permanent notification
 
-#### iOS Apps
+##### iOS Apps
 - [Navigether](https://github.com/TeamGruenbaum/Navigether) - Conceptual app that makes it possible to get along better in public transport
+<br>
+
+#### 👤 &nbsp; isabellwaas
+##### Desktop Apps
+- [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system.
 
 ------------------------------------------
 <!-- Custom Icon Badges by DenverCoder1 - https://github.com/DenverCoder1/custom-icon-badges -->
