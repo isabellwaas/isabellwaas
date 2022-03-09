@@ -46,7 +46,7 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-
+<br><br>
 
 #### Frameworks and Databases
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java%20Swing" src="https://img.shields.io/badge/Java%20Swing-007396.svg?logo=java&logoColor=white"></a>
@@ -54,10 +54,10 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="MariaDB" src="https://img.shields.io/badge/mariadb-1F305F.svg?logo=mariadbfoundation&logoColor=white"></a>
-
+<br><br>
 
 #### Software and Tools
-- For programming: <br>
+##### For programming: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000.svg?logo=macos&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
@@ -66,7 +66,7 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-ff6a12"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-- For designing: <br>
+##### For designing: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Designer" src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Photo" src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Publisher" src="https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=white"></a>
