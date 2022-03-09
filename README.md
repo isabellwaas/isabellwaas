@@ -32,7 +32,8 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 
 #### 👤 &nbsp; isabellwaas
 ##### Desktop Apps
-- [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system.
+- [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system
+- [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
 
 ------------------------------------------
 <!-- Custom Icon Badges by DenverCoder1 - https://github.com/DenverCoder1/custom-icon-badges -->
