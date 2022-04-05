@@ -16,6 +16,14 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 </p>
 
 ------------------------------------------
+### 🔍 &nbsp; Find me on the web
+Feel free to get in touch if you have any questions for me. <br><br>
+<a href="https://www.xing.com/profile/Isabell_Waas"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?logo=xing&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/isabell-waas-966226232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://500px.com/p/isabellwaas"><img alt="500px" src="https://img.shields.io/badge/500px-0099E5.svg?logo=500px&logoColor=white"></a>
+<a href="https://www.behance.net/isabellwaas"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white"></a>
+
+------------------------------------------
 ### 📌 &nbsp; Projects
 #### 🌳 &nbsp; TeamGruenbaum
 ##### Desktop Apps
@@ -27,7 +35,8 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 - [RingerModeNotification](https://github.com/TeamGruenbaum/RingerModeNotification) - Constantly informs you about your device's current ringer mode via permanent notification
 
 ##### iOS Apps
-- [Navigether](https://github.com/TeamGruenbaum/Navigether) - Conceptual app that makes it possible to get along better in public transport
+- Navigether - Conceptual app that makes it possible to get along better in public transport
+- ShoppingListGenerator (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook. 
 <br>
 
 #### 👤 &nbsp; isabellwaas
@@ -36,26 +45,32 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 - [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
 
 ------------------------------------------
-<!-- Custom Icon Badges by DenverCoder1 - https://github.com/DenverCoder1/custom-icon-badges -->
 ### ⚙️ &nbsp; Skills and Tools
 #### Programming languages
+##### Favorites: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+##### Others: <br>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 <br><br>
 
+
 #### Frameworks and Databases
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java%20Swing" src="https://img.shields.io/badge/Java%20Swing-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="MariaDB" src="https://img.shields.io/badge/mariadb-1F305F.svg?logo=mariadbfoundation&logoColor=white"></a>
 <br><br>
+
 
 #### Software and Tools
 ##### For programming: <br>
@@ -71,14 +86,4 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Designer" src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Photo" src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Publisher" src="https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=white"></a>
-
-
-------------------------------------------
-### 🔍 &nbsp; Find me on the web
-Feel free to get in touch if you have any questions for me. <br><br>
-<a href="https://www.xing.com/profile/Isabell_Waas"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?logo=xing&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/isabell-waas-966226232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://500px.com/p/isabellwaas"><img alt="500px" src="https://img.shields.io/badge/500px-0099E5.svg?logo=500px&logoColor=white"></a>
-<a href="https://www.behance.net/isabellwaas"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white"></a>
-
 
