@@ -36,7 +36,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ##### iOS Apps
 - [Navigether](https://github.com/TeamGruenbaum/Navigether) - Conceptual app that makes it possible to get along better in public transport
-- ShoppingListGenerator (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook. 
+- [ShoppingListGenerator](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook. 
 <br>
 
 #### 👤 &nbsp; isabellwaas
