@@ -25,7 +25,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ------------------------------------------
 ### 📌 &nbsp; Projects
-#### 🌳 &nbsp; TeamGruenbaum
+#### 🌳 &nbsp; Gruenbaum
 ##### Desktop Apps
 - [ShoppingListGenerator](https://github.com/TeamGruenbaum/ShoppingListGenerator) - Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes
 - [HofUniversityManager](https://github.com/TeamGruenbaum/HofUniversityManager) - Manage everyday student life at Hof University and access various services such as mensa or timetables
