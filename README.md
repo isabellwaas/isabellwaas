@@ -7,7 +7,7 @@
 
 My name is Isabell. I am from Germany and currently studying Media Informatics at Hof University of Applied Sciences. Creating simple and intuitive desktop, mobile and web applications is my passion and seeing how many new things you learn with each project you do keeps me motivated.
 
-In 2020 I started developing applications together with [Steven Solleder](https://github.com/stevensolleder) and we founded the ["TeamGruenbaum" Organization](https://github.com/TeamGruenbaum) here on GitHub. Besides, I also like doing projects on my own.
+In 2020 I started developing applications together with [Steven Solleder](https://github.com/stevensolleder) and we founded the ["Gruenbaum" Organization](https://github.com/TeamGruenbaum) here on GitHub. Besides, I also like doing projects on my own.
 <br><br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
