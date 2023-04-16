@@ -73,13 +73,11 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 
 #### Software and Tools
-##### For programming: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000.svg?logo=macos&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="IntelliJ%20IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="XCode" src="https://img.shields.io/badge/XCode-147EFB.svg?logo=xcode&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-##### For designing: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Designer" src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Photo" src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Publisher" src="https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=white"></a>
