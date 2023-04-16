@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics%20student%20at%20Hof%20University;Prospective%20Software-Developer%20from%20Germany;Learning%20new%20things%20with%20each%20project&font=JetBrains+Mono&center=true&width=520&height=45&vCenter=true&size=18&color=57a5ff"></a>
 </p>
 
-My name is Isabell. I am from Germany and currently studying Master Informatics at Hof University of Applied Sciences. Creating simple and intuitive desktop, mobile and web applications is my passion and seeing how many new things you learn with each project you do keeps me motivated.
+My name is Isabell. I am from Germany and currently studying Master Informatics at Hof University of Applied Sciences. Creating simple and intuitive desktop, mobile and web applications is my passion and seeing how many new things I learn with each project keeps me motivated.
 
 In 2020 I started developing applications together with [Steven Solleder](https://github.com/stevensolleder) and we founded the ["Gruenbaum" Organization](https://github.com/TeamGruenbaum) here on GitHub. Besides, I also like doing projects on my own.
 <br><br>
@@ -61,11 +61,12 @@ Feel free to get in touch if you have any questions for me. <br><br>
 <br><br>
 
 
-#### Frameworks and Databases
+#### Frameworks
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java%20Swing" src="https://img.shields.io/badge/Java%20Swing-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-007396.svg?logo=java&logoColor=white"></a>
 <br><br>
@@ -74,12 +75,9 @@ Feel free to get in touch if you have any questions for me. <br><br>
 #### Software and Tools
 ##### For programming: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000.svg?logo=macos&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="IntelliJ%20IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="XCode" src="https://img.shields.io/badge/XCode-147EFB.svg?logo=xcode&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="IntelliJ%20IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-ff6a12"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 ##### For designing: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Affinity%20Designer" src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=white"></a>
