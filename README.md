@@ -50,25 +50,20 @@ Feel free to get in touch if you have any questions for me. <br><br>
 ------------------------------------------
 ### ⚙️ &nbsp; Skills and Tools
 #### Programming languages
-##### Favorites: <br>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-##### Others: <br>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 <br><br>
 
 
 #### Frameworks and Databases
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java%20Swing" src="https://img.shields.io/badge/Java%20Swing-007396.svg?logo=java&logoColor=white"></a>
@@ -79,7 +74,6 @@ Feel free to get in touch if you have any questions for me. <br><br>
 #### Software and Tools
 ##### For programming: <br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000.svg?logo=macos&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="XCode" src="https://img.shields.io/badge/XCode-147EFB.svg?logo=xcode&logoColor=white"></a>
