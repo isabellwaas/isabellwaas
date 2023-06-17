@@ -19,7 +19,7 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 ### 🔍 &nbsp; Find me on the web
 Feel free to get in touch if you have any questions for me. <br><br>
 <a href="https://www.xing.com/profile/Isabell_Waas"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?logo=xing&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/isabell-waas-966226232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/isabellwaas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
 <a href="https://500px.com/p/isabellwaas"><img alt="500px" src="https://img.shields.io/badge/500px-0099E5.svg?logo=500px&logoColor=white"></a>
 <a href="https://www.behance.net/isabellwaas"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white"></a>
 
