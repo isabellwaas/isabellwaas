@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics%20student%20at%20Hof%20University;Prospective%20Software-Developer%20from%20Germany;Learning%20new%20things%20with%20each%20project&font=JetBrains+Mono&center=true&width=520&height=45&vCenter=true&size=18&color=57a5ff"></a>
 </p>
 
-My name is Isabell. I am from Germany and currently studying Master Informatics at Hof University of Applied Sciences. Creating simple and intuitive desktop, mobile and web applications is my passion and seeing how many new things I learn with each project keeps me motivated.
+My name is Isabell. I am from Germany and currently studying Master Informatics at Hof University of Applied Sciences. Creating simple and intuitive software is my passion and seeing how many new things I learn with each project keeps me motivated.
 
 In 2020 I started developing applications together with [Steven Solleder](https://github.com/stevensolleder) and we founded the ["Gruenbaum" Organization](https://github.com/TeamGruenbaum) here on GitHub. Besides, I also like doing projects on my own.
 <br><br>
@@ -18,8 +18,8 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 ------------------------------------------
 ### 🔍 &nbsp; Find me on the web
 Feel free to get in touch if you have any questions for me. <br><br>
-<a href="https://www.xing.com/profile/Isabell_Waas"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?logo=xing&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/isabellwaas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://www.xing.com/profile/Isabell_Waas"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?logo=xing&logoColor=white"></a>
 <a href="https://500px.com/p/isabellwaas"><img alt="500px" src="https://img.shields.io/badge/500px-0099E5.svg?logo=500px&logoColor=white"></a>
 <a href="https://www.behance.net/isabellwaas"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white"></a>
 
@@ -36,7 +36,13 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ##### iOS Apps
 - [Navigether](https://github.com/TeamGruenbaum/Navigether) - Conceptual app that makes it possible to get along better in public transport
-- [ShoppingListGenerator](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook. 
+- [ShoppingListGenerator](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook.
+
+##### Backend Projects
+- [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
+
+##### Other Projects
+- [BachelorThesis](https://github.com/TeamGruenbaum/BachelorThesis_EfficientDevelopmentOfARestfulWebserviceBasedOnModernFrameworks) – The collaborative bachelor thesis of Steven Solleder and me which compares the advantages and disadvantages of different languages and frameworks for implementing RESTful webservices in German
 <br>
 
 #### 👤 &nbsp; isabellwaas
@@ -67,8 +73,6 @@ Feel free to get in touch if you have any questions for me. <br><br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java%20Swing" src="https://img.shields.io/badge/Java%20Swing-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-007396.svg?logo=java&logoColor=white"></a>
 <br><br>
 
 
