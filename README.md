@@ -21,15 +21,15 @@ Feel free to get in touch if you have any questions for me. <br><br>
 ------------------------------------------
 ### 📌 &nbsp; Projects
 #### 👤 &nbsp; isabellwaas
-##### RESTful Webservices
+##### Backend Projects
 - CharactersWiki-Backend - To be published soon.
+
+##### Android Apps
+- [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost.
 
 ##### Desktop Apps
 - [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system
 - [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
-
-##### Android Apps
-- [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost.
 
 ##### Scientific Papers
 - ImpactOfStreamingPlatformsOnSociety - To be published soon.
@@ -37,20 +37,20 @@ Feel free to get in touch if you have any questions for me. <br><br>
 <br>
 
 #### 🌳 &nbsp; Gruenbaum
-##### Desktop Apps
-- [ShoppingListGenerator](https://github.com/TeamGruenbaum/ShoppingListGenerator) - Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes
-- [HofUniversityManager](https://github.com/TeamGruenbaum/HofUniversityManager) - Manage everyday student life at Hof University and access various services such as mensa or timetables
-
-##### Android Apps
-- [SimpleDo](https://github.com/TeamGruenbaum/SimpleDo) - Note down tasks or appointments, sort them by any criterion you like and set a reminder
-- [RingerModeNotification](https://github.com/TeamGruenbaum/RingerModeNotification) - Constantly informs you about your device's current ringer mode via permanent notification
+##### Backend Projects
+- [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
 
 ##### iOS Apps
 - [Navigether](https://github.com/TeamGruenbaum/Navigether) - Conceptual app that makes it possible to get along better in public transport
 - [ShoppingListGenerator](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook.
 
-##### Backend Projects
-- [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
+##### Android Apps
+- [SimpleDo](https://github.com/TeamGruenbaum/SimpleDo) - Note down tasks or appointments, sort them by any criterion you like and set a reminder
+- [RingerModeNotification](https://github.com/TeamGruenbaum/RingerModeNotification) - Constantly informs you about your device's current ringer mode via permanent notification
+
+##### Desktop Apps
+- [ShoppingListGenerator](https://github.com/TeamGruenbaum/ShoppingListGenerator) - Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes
+- [HofUniversityManager](https://github.com/TeamGruenbaum/HofUniversityManager) - Manage everyday student life at Hof University and access various services such as mensa or timetables
 
 ##### Scientific Papers
 - [BachelorThesis](https://github.com/TeamGruenbaum/BachelorThesis_EfficientDevelopmentOfARestfulWebserviceBasedOnModernFrameworks) – The collaborative bachelor thesis of Steven Solleder and me which compares the advantages and disadvantages of different languages and frameworks for implementing RESTful webservices in German
