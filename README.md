@@ -20,6 +20,22 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ------------------------------------------
 ### 📌 &nbsp; Projects
+#### 👤 &nbsp; isabellwaas
+##### RESTful Webservices
+- CharactersWiki-Backend - To be published soon.
+
+##### Desktop Apps
+- [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system
+- [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
+
+##### Android Apps
+- [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost.
+
+##### Scientific Papers
+- ImpactOfStreamingPlatformsOnSociety - To be published soon.
+- ThePotentialOfGraphQLAsAnAlternativeToREST - To be published soon.
+<br>
+
 #### 🌳 &nbsp; Gruenbaum
 ##### Desktop Apps
 - [ShoppingListGenerator](https://github.com/TeamGruenbaum/ShoppingListGenerator) - Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes
@@ -36,17 +52,8 @@ Feel free to get in touch if you have any questions for me. <br><br>
 ##### Backend Projects
 - [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
 
-##### Other Projects
+##### Scientific Papers
 - [BachelorThesis](https://github.com/TeamGruenbaum/BachelorThesis_EfficientDevelopmentOfARestfulWebserviceBasedOnModernFrameworks) – The collaborative bachelor thesis of Steven Solleder and me which compares the advantages and disadvantages of different languages and frameworks for implementing RESTful webservices in German
-<br>
-
-#### 👤 &nbsp; isabellwaas
-##### Desktop Apps
-- [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system
-- [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
-
-##### Android Apps
-- [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost.
 
 ------------------------------------------
 ### ⚙️ &nbsp; Skills and Tools
@@ -60,7 +67,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 
 #### Frameworks
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=Spring&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=Spring&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
