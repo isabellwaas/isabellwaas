@@ -25,15 +25,15 @@ Feel free to get in touch if you have any questions for me. <br><br>
 - CharactersWiki-Backend - To be published soon.
 
 ##### Android Apps
-- [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost.
+- [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost
 
 ##### Desktop Apps
 - [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system
 - [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
 
 ##### Scientific Papers
-- ImpactOfStreamingPlatformsOnSociety - To be published soon.
-- ThePotentialOfGraphQLAsAnAlternativeToREST - To be published soon.
+- [ImpactOfStreamingPlatformsOnSociety](ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the digitalization of video and audio consumption as well as gaming through streaming platforms and the influence these technologies have on society
+- [ThePotentialOfGraphQLAsAnAlternativeToREST](https://github.com/isabellwaas/ScientificPaper_ThePotentialOfGraphQLAsAnAlternativeToREST) - In this Scientific paper two technologies for implementing APIs, REST and GraphQL, are compared and finally a conclusion is drawn as to whether GraphQL is an appropriate alternative to REST
 <br>
 
 #### 🌳 &nbsp; Gruenbaum
