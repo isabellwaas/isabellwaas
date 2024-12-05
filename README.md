@@ -2,10 +2,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics%20student%20at%20Hof%20University;Software-Developer%20from%20Germany&font=JetBrains+Mono&center=true&width=520&height=45&vCenter=true&size=18&color=57a5ff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Master%20Computer%20Science%20student%20at%20Hof%20University;Software-Developer%20from%20Germany&font=JetBrains+Mono&center=true&width=520&height=45&vCenter=true&size=18&color=57a5ff"></a>
 </p>
 
-My name is Isabell. I am from Germany and currently studying Master Informatics at Hof University of Applied Sciences. Creating simple and intuitive software is my passion and seeing how many new things I learn with each project keeps me motivated.
+My name is Isabell. I am from Germany and currently studying Master Computer Science at Hof University of Applied Sciences. Creating simple and intuitive software is my passion and seeing how many new things I learn with each project keeps me motivated.
 
 In 2020 I started developing applications together with [Steven Solleder](https://github.com/stevensolleder) and we founded the ["Gruenbaum" Organization](https://github.com/TeamGruenbaum) here on GitHub. Besides, I also like doing projects on my own.
 <br><br>
