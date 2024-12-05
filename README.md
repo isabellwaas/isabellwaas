@@ -32,7 +32,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 - [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
 
 ##### Scientific Papers
-- [ImpactOfStreamingPlatformsOnSociety](ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the digitalization of video and audio consumption as well as gaming through streaming platforms and the influence these technologies have on society
+- [ImpactOfStreamingPlatformsOnSociety](https://github.com/isabellwaas/ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the digitalization of video and audio consumption as well as gaming through streaming platforms and the influence these technologies have on society
 - [ThePotentialOfGraphQLAsAnAlternativeToREST](https://github.com/isabellwaas/ScientificPaper_ThePotentialOfGraphQLAsAnAlternativeToREST) - In this Scientific paper two technologies for implementing APIs, REST and GraphQL, are compared and finally a conclusion is drawn as to whether GraphQL is an appropriate alternative to REST
 <br>
 
