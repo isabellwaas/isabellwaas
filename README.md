@@ -29,6 +29,8 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ##### Desktop Apps
 - [PlanetsOfOurSolarSystem](https://github.com/isabellwaas/PlanetsOfOurSolarSystem) - Interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system
+
+##### Websites
 - [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
 
 ##### Scientific Papers
