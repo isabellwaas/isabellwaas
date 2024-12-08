@@ -21,7 +21,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 ### 📌 &nbsp; Projects
 #### 👤 &nbsp; isabellwaas
 ##### Backend Projects
-- CharactersWiki-Backend - To be published soon.
+- [CharactersWiki-Backend](https://github.com/isabellwaas/CharactersWiki-Backend) - RESTful web service that allows authors and fans to manage detailed character profiles, including relationships, allegiances, quotes, weapons, origins, locations, and securely uploaded images, serving as a comprehensive tool for storytelling and creative projects
 
 ##### Android Apps
 - [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost
@@ -34,12 +34,12 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ##### Scientific Papers
 - [ThePotentialOfGraphQLAsAnAlternativeToREST](https://github.com/isabellwaas/ScientificPaper_ThePotentialOfGraphQLAsAnAlternativeToREST) - This scientific paper compares REST and GraphQL based on various criteria such as interface definition, query and response capabilities, performance and development effort and examines their suitability for different use cases in API implementation
-- [ImpactOfStreamingPlatformsOnSociety](https://github.com/isabellwaas/ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the digitalization of video and audio consumption as well as gaming through streaming platforms and the influence these technologies have on society
+- [ImpactOfStreamingPlatformsOnSociety](https://github.com/isabellwaas/ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the impact of digitalization on video and audio consumption as well as gaming, focusing on streaming platforms and their positive and negative influences on society
 <br>
 
 #### 🌳 &nbsp; TeamGruenbaum
 ##### Backend Projects
-- [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer)
+- [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer) - RESTful web service that enables users to offer, join or request rides and communicate with each other. It also promotes the formation of long-term carpools. Verifying through university login and providing detailed information about drivers and passengers, ensures a safe, student-only community
 - [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
 
 ##### Fullstack Projects
@@ -50,14 +50,14 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ##### iOS Apps
 - [Navigether](https://github.com/TeamGruenbaum/Navigether) - Conceptual app that makes it possible to get along better in public transport
-- [ShoppingListGenerator](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook
+- [ShoppingListGenerator_SwiftUI](https://github.com/TeamGruenbaum/ShoppingListGenerator_SwiftUI) (based on the idea of our Desktop App ShoppingListGenerator) - Simplifies creating shopping lists ordered by store and shelf based on selected ingredients and dishes. Apart from this, it serves as a cookbook by storing dishes together with their recipes and ingredients
 
 ##### Android Apps
 - [SimpleDo](https://github.com/TeamGruenbaum/SimpleDo) - Note down tasks or appointments, sort them by any criterion you like and set a reminder
 - [RingerModeNotification](https://github.com/TeamGruenbaum/RingerModeNotification) - Constantly informs you about your device's current ringer mode via permanent notification
 
 ##### Desktop Apps
-- [ShoppingListGenerator](https://github.com/TeamGruenbaum/ShoppingListGenerator) - Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes
+- [ShoppingListGenerator_Swing](https://github.com/TeamGruenbaum/ShoppingListGenerator_Swing) - Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes
 - [HofUniversityManager](https://github.com/TeamGruenbaum/HofUniversityManager) - Manage everyday student life at Hof University and access various services such as mensa or timetables
 
 ##### Scientific Papers
