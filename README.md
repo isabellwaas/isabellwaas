@@ -7,7 +7,7 @@
 
 My name is Isabell. I am from Germany and currently studying Master Computer Science at Hof University of Applied Sciences. Creating simple and intuitive software is my passion and seeing how many new things I learn with each project keeps me motivated.
 
-In 2020 I started developing applications together with [Steven Solleder](https://github.com/stevensolleder) and we founded the ["Gruenbaum" Organization](https://github.com/TeamGruenbaum) here on GitHub. Besides, I also like doing projects on my own.
+In 2020 I started developing applications together with [Steven Solleder](https://github.com/stevensolleder) and we founded the ["TeamGruenbaum" Organization](https://github.com/TeamGruenbaum) here on GitHub. Besides, I also like doing projects on my own.
 <br><br>
 
 ------------------------------------------
@@ -37,7 +37,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 - [ImpactOfStreamingPlatformsOnSociety](https://github.com/isabellwaas/ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the digitalization of video and audio consumption as well as gaming through streaming platforms and the influence these technologies have on society
 <br>
 
-#### 🌳 &nbsp; Gruenbaum
+#### 🌳 &nbsp; TeamGruenbaum
 ##### Backend Projects
 - [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer)
 - [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
