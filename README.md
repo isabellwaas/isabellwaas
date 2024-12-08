@@ -14,7 +14,6 @@ In 2020 I started developing applications together with [Steven Solleder](https:
 ### 🔍 &nbsp; Find me on the web
 Feel free to get in touch if you have any questions for me. <br><br>
 <a href="https://www.linkedin.com/in/isabellwaas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://www.xing.com/profile/Isabell_Waas"><img alt="Xing" src="https://img.shields.io/badge/Xing-006567.svg?logo=xing&logoColor=white"></a>
 <a href="https://500px.com/p/isabellwaas"><img alt="500px" src="https://img.shields.io/badge/500px-0099E5.svg?logo=500px&logoColor=white"></a>
 <a href="https://www.behance.net/isabellwaas"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white"></a>
 
@@ -34,8 +33,8 @@ Feel free to get in touch if you have any questions for me. <br><br>
 - [ChancellorsOfGermany](https://github.com/isabellwaas/ChancellorsOfGermany) - Interactive infographic that visualizes the chancellors of germany with the help of a timeline
 
 ##### Scientific Papers
+- [ThePotentialOfGraphQLAsAnAlternativeToREST](https://github.com/isabellwaas/ScientificPaper_ThePotentialOfGraphQLAsAnAlternativeToREST) - This scientific paper compares REST and GraphQL based on various criteria such as interface definition, query and response capabilities, performance and development effort and examines their suitability for different use cases in API implementation
 - [ImpactOfStreamingPlatformsOnSociety](https://github.com/isabellwaas/ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the digitalization of video and audio consumption as well as gaming through streaming platforms and the influence these technologies have on society
-- [ThePotentialOfGraphQLAsAnAlternativeToREST](https://github.com/isabellwaas/ScientificPaper_ThePotentialOfGraphQLAsAnAlternativeToREST) - In this Scientific paper two technologies for implementing APIs, REST and GraphQL, are compared and finally a conclusion is drawn as to whether GraphQL is an appropriate alternative to REST
 <br>
 
 #### 🌳 &nbsp; Gruenbaum
