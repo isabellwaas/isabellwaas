@@ -39,11 +39,18 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 #### 🌳 &nbsp; Gruenbaum
 ##### Backend Projects
+- [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer)
 - [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
+
+##### Fullstack Projects
+- [RealtimeGermanTrafficSignRecognition](https://github.com/TeamGruenbaum/RealtimeGermanTrafficSignRecognition) - Python backend using ORB or YOLO for real-time traffic sign detection, an Android app using the backend for live camera highlighting, and a German-language scientific paper on the theory and implementation
+
+##### Video Games
+- [RohTayteTheTimelessSpace](https://github.com/TeamGruenbaum/RohTayteTheTimelessSpace) - 3D single-player game, where players control a fox named Roh Tayte navigating themed worlds with area-specific abilities for manipulating time and space that help them to master puzzles and skill passages
 
 ##### iOS Apps
 - [Navigether](https://github.com/TeamGruenbaum/Navigether) - Conceptual app that makes it possible to get along better in public transport
-- [ShoppingListGenerator](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook.
+- [ShoppingListGenerator](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) (based on the idea of our Desktop App ShoppingListGenerator) – Lets you select the dishes you want to buy ingredients for and also additional ingredients before it generates your individual shopping list sorted by stores and shelfes. Besides, the app also serves as a cookbook
 
 ##### Android Apps
 - [SimpleDo](https://github.com/TeamGruenbaum/SimpleDo) - Note down tasks or appointments, sort them by any criterion you like and set a reminder
