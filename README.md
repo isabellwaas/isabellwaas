@@ -34,16 +34,16 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 ##### Scientific Papers
 - [ThePotentialOfGraphQLAsAnAlternativeToREST](https://github.com/isabellwaas/ScientificPaper_ThePotentialOfGraphQLAsAnAlternativeToREST) - This scientific paper compares REST and GraphQL based on various criteria such as interface definition, query and response capabilities, performance and development effort and examines their suitability for different use cases in API implementation
-- [ImpactOfStreamingPlatformsOnSociety](https://github.com/isabellwaas/ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the impact of digitalization on video and audio consumption as well as gaming, focusing on streaming platforms and their positive and negative influences on society
+- [ImpactOfStreamingPlatformsOnSociety](https://github.com/isabellwaas/ScientificPaper_ImpactOfStreamingPlatformsOnSociety) - Scientific paper that deals with the impact of digitalization on video and audio consumption as well as gaming, focusing on streaming platforms and their positive and negative influence on society
 <br>
 
 #### 🌳 &nbsp; TeamGruenbaum
 ##### Backend Projects
-- [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer) - RESTful web service that enables users to offer, join or request rides and communicate with each other. It also promotes the formation of long-term carpools. Verifying through university login and providing detailed information about drivers and passengers, ensures a safe, student-only community
+- [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer) - RESTful web service that enables users to offer, join or request rides and communicate with each other. It also promotes the formation of long-term carpools. Verification through university login and the provision of detailed information about drivers and passengers, ensures a safe, student-only community
 - [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
 
 ##### Fullstack Projects
-- [RealtimeGermanTrafficSignRecognition](https://github.com/TeamGruenbaum/RealtimeGermanTrafficSignRecognition) - Python backend using ORB or YOLO for real-time traffic sign detection, an Android app using the backend for live camera highlighting, and a German-language scientific paper on the theory and implementation
+- [RealtimeGermanTrafficSignRecognition](https://github.com/TeamGruenbaum/RealtimeGermanTrafficSignRecognition) - Python backend using ORB or YOLO for real-time traffic sign detection, an Android app using the backend for live camera highlighting and a German-language scientific paper on the theory and implementation
 
 ##### Video Games
 - [RohTayteTheTimelessSpace](https://github.com/TeamGruenbaum/RohTayteTheTimelessSpace) - 3D single-player game, where players control a fox named Roh Tayte navigating themed worlds with area-specific abilities for manipulating time and space that help them to master puzzles and skill passages
