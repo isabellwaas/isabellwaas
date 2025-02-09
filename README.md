@@ -69,15 +69,15 @@ Feel free to get in touch if you have any questions for me. <br><br>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <br><br>
 
 
 #### Frameworks
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=Spring&logoColor=white"></a>
-<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138.svg?logo=swift&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white"></a>
+<a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="https://github.com/DenverCoder1/custom-icon-badges"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 <br><br>
