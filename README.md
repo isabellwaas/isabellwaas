@@ -20,7 +20,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 ### 📌 &nbsp; Projects
 #### 👤 &nbsp; isabellwaas
 ##### Backend Projects
-- [CharactersWiki-Backend](https://github.com/isabellwaas/CharactersWiki-Backend) - RESTful web service that allows authors and fans to manage detailed character profiles, including relationships, allegiances, quotes, weapons, origins, locations, and securely uploaded images, serving as a comprehensive tool for storytelling and creative projects
+- [CharactersWiki-Backend](https://github.com/isabellwaas/CharactersWiki-Backend) - RESTful web service written in Java using Spring Boot that allows authors and fans to manage detailed character profiles, including relationships, allegiances, quotes, weapons, origins, locations, and securely uploaded images, serving as a comprehensive tool for storytelling and creative projects
 
 ##### Android Apps
 - [LockScreenMessage](https://github.com/isabellwaas/LockScreenMessage) - Lets you show any message you like permanently on your lock screen. It can be especially useful for showing contact information in case the device gets lost
