@@ -42,6 +42,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 - [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
 
 ##### Fullstack Projects
+- [LearnEasy](https://github.com/TeamGruenbaum/LearnEasy) – Learning application for schools with a special focus on accessibility, platform independence and data protection. The project consists of a scientific paper, a RESTful web service written in Java using Spring Boot and a Progressive Web App developed with TypeScript and Vue.js
 - [RealtimeGermanTrafficSignRecognition](https://github.com/TeamGruenbaum/RealtimeGermanTrafficSignRecognition) - Python backend using ORB or YOLO for real-time traffic sign detection, an Android app using the backend for live camera highlighting and a German-language scientific paper on the theory and implementation
 
 ##### Video Games
