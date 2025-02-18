@@ -38,7 +38,7 @@ Feel free to get in touch if you have any questions for me. <br><br>
 
 #### 🌳 &nbsp; TeamGruenbaum
 ##### Backend Projects
-- [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer) - RESTful web service written in Kotlin using Spring Boot that enables users to offer, join or request rides and communicate with each other. It also promotes the formation of long-term carpools. Verification through university login and the provision of detailed information about drivers and passengers, ensures a safe, student-only community
+- [UniFlitzer](https://github.com/TeamGruenbaum/UniFlitzer) - RESTful web service written in Kotlin using Spring Boot that enables users to offer, join or request rides and communicate with each other. It also promotes the formation of long-term carpools. Verification through university e-mail and the provision of detailed information about drivers and passengers, ensures a safe, student-only community
 - [RESTfulFrameworksComparison](https://github.com/TeamGruenbaum/RESTfulFrameworksComparison) – Implementation of a specification for a fictitious RESTful web service in different languages and frameworks
 
 ##### Fullstack Projects
